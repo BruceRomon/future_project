@@ -1,0 +1,27 @@
+{
+  "version": "1.0.3",
+  "body": "",
+  "download_url": "https://app.918938.xyz/download/index.html",
+  "platforms": {
+    "windows": {
+      "version": "1.0.3",
+      "body": "",
+      "download_url": "https://dl.918938.xyz/app/fanshenme.exe"
+    },
+    "macos": {
+      "version": "1.0.3",
+      "body": "",
+      "download_url": "https://dl.918938.xyz/app/fanshenme.dmg"
+    },
+    "android": {
+      "version": "1.0.3",
+      "body": "",
+      "download_url": "https://dl.918938.xyz/app/fanshenme.apk"
+    },
+    "linux": {
+      "version": "1.0.3",
+      "body": "",
+      "download_url": "https://dl.918938.xyz/app/fanshenme.deb"
+    }
+  }
+}
